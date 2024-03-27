@@ -19,7 +19,7 @@ const SwipeMenu = () => {
         <ul>
           <li><Link to="/" onClick={closeMenu}>💎</Link></li>
           <li><Link to="/moon" onClick={closeMenu}>🌕</Link></li>
-          <li><a href="tel:0794630666n" onClick={closeMenu}>CONTACT</a></li>
+          <li><a href="tel:0794630666" onClick={closeMenu}>CONTACT</a></li>
         </ul>
       </div>
       <div className="content">
